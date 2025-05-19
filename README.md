@@ -30,9 +30,25 @@ High customer churn impacts revenue and increases acquisition costs. Without a c
 Using SQL, the following initial exploratory data analysis was performed:
 
 ## Insights 
-1. Customer & Revenue Insights
+1. Customer & Revenue Overview
 
 ![Customer & Revenue Insights](https://github.com/Temperance-Godwin/CUSTOMER-CHURN-ANALYSIS/blob/main/Customer%20%26%20Revenue%20Insights.png)
+
+- Month-to-month generates the highest revenue ($8.2M)
+
+- Stayed customers generated $6.8M revenue while Churned customer has $1.2M loss.
+
+2. Churn Analysis.
+![Churn Analysis](https://github.com/Temperance-Godwin/CUSTOMER-CHURN-ANALYSIS/blob/main/Churn%20Analysis.png)
+
+- The overall churn Rate was 27%
+- Highest Churn Contracts is Month-to-month (47%)
+
+High Churn Services: Unlimited Data (80.08%), Phone Service (90.59%)
+
+Churn by Age Group: Older and middle-aged customers churn more
+
+Churn by Payment: Mailed Check (38%) and Bank Withdrawal (34%)
 
 ## Predictive Modeling (Python)
 
