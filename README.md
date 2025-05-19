@@ -1,21 +1,21 @@
 # CUSTOMER-CHURN-ANALYSIS
 
-1. Project Overview
+## Project Overview
 
 Customer churn is a significant concern for subscription-based businesses. This project aims to analyze customer behavior to understand churn patterns and to build a predictive model that forecasts customer churn. The goal is to equip the business with actionable insights to reduce churn and enhance customer retention.
 
-2. Problem Statement
+## Problem Statement
 
 High customer churn impacts revenue and increases acquisition costs. Without a clear understanding of why customers leave, businesses struggle to implement effective retention strategies. This project addresses this challenge by analyzing churn patterns and building a predictive model to identify at-risk customers.
 
-3. Objective
+## Objective
 
 - Identify key factors driving customer churn.
 - Build an accurate predictive model for customer churn.
 - Develop targeted, actionable strategies to reduce churn.
 - Visualize insights through interactive dashboards for stakeholders.
 
-4. Methodology
+## Methodology
 
 - Raw data was collected, cleaned and transformed using SQL
 - SQL and Power BI visualizations were used to identify patterns and trends.
@@ -25,11 +25,11 @@ High customer churn impacts revenue and increases acquisition costs. Without a c
 - Dashboarding: Power BI dashboards were created for business decision-makers.
 - Insights & Recommendations: Actionable strategies were developed based on analytical findings.
 
-5. Data Exploration (SQL)
+## Data Exploration (SQL)
 
 Using SQL, the following initial exploratory data analysis was performed:
 
-6. Dashboard Visualizations (Power BI)
+## Insights
 
 Four interactive dashboards were created:
 
