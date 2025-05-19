@@ -29,57 +29,12 @@ High customer churn impacts revenue and increases acquisition costs. Without a c
 
 Using SQL, the following initial exploratory data analysis was performed:
 
-## Insights
+## Insights 
+1. Customer & Revenue Insights
 
-Four interactive dashboards were created:
+![Customer & Revenue Insights](https://github.com/Temperance-Godwin/CUSTOMER-CHURN-ANALYSIS/blob/main/Customer%20%26%20Revenue%20Insights.png)
 
-a) Churn Analysis Dashboard
-
-Total Churned Customers: 1,732
-
-Churn Rate: 27%
-
-Top Churn Reasons: Competitor (761), Attitude, Dissatisfaction
-
-Highest Churn Contracts: Month-to-month (47%)
-
-High Churn Services: Unlimited Data (80.08%), Phone Service (90.59%)
-
-Churn by Age Group: Older and middle-aged customers churn more
-
-Churn by Payment: Mailed Check (38%) and Bank Withdrawal (34%)
-
-b) Churn Prediction Dashboard
-
-Predicted Churned Customers: 378
-
-Churned Revenue Forecast: $42.60K
-
-Top Risk States: Maharashtra ($1.8K), Uttar Pradesh ($1.3K), Tamil Nadu ($1.3K)
-
-Referral Observations: High churn among customers with 30+ referrals
-
-c) Customer & Revenue Overview Dashboard
-
-Total Customers: 6,418
-
-Average Tenure: 17.34 months
-
-Revenue by Contract:
-
-Month-to-month generates the highest revenue ($8.2M)
-
-Customer Status Breakdown:
-
-Stayed: 4.3K ($6.8M revenue)
-
-Churned: 1.7K ($1.2M loss)
-
-d) Insights & Recommendations Dashboard
-
-Synthesizes analysis findings with direct business recommendations.
-
-8. Predictive Modeling (Python)
+## Predictive Modeling (Python)
 
 Workflow in Jupyter Notebook:
 
@@ -97,7 +52,7 @@ Customers with higher tenure still churned — tenure alone is not a retention g
 
 Refunds are almost zero, possibly contributing to dissatisfaction.
 
-9. Key Business Insights
+## Key Business Insights
 
 Month-to-month contracts exhibit the highest churn.
 
@@ -109,7 +64,7 @@ Services like Unlimited Data and Phone Service need quality improvements.
 
 Geographic churn hotspots (e.g., Maharashtra, Tamil Nadu) indicate need for local campaigns.
 
-10. Recommendations & Action Plan
+## Recommendations & Action Plan
 
 Promote Long-Term ContractsAction: Launch targeted marketing campaigns and incentives (e.g., discounts, loyalty points, bundled services) to convert customers from month-to-month to annual or bi-annual contracts. Include limited-time offers and promote benefits such as price stability and exclusive support.
 
@@ -121,14 +76,7 @@ Target High-Churn RegionsAction: Deploy localized marketing and customer success
 
 Retain High-Value CustomersAction: Identify high-revenue customers using churn prediction scores and proactively enroll them in VIP loyalty programs. Assign dedicated account managers, provide early access to new features, and ensure personalized communication to reduce churn risk.
 
-11. Conclusion
+## Conclusion
 
 This project effectively combined data engineering, business intelligence, and machine learning to provide a comprehensive view of customer churn. The insights and models developed here are directly actionable, offering measurable strategies to reduce churn and improve customer loyalty. It showcases end-to-end capability in data-driven business problem solving and is designed to be presentation-ready for stakeholders and potential employers.
 
-Appendix:
-
-SQL Script: Exploratory queries and table creation
-
-Jupyter Notebook: Model building and evaluation
-
-Power BI Dashboards: Visualization for non-technical stakeholders
