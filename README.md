@@ -79,9 +79,8 @@ Geographic churn hotspots (e.g., Maharashtra, Tamil Nadu) indicate need for loca
 - Promote Long-Term Contracts by launching targeted marketing campaigns and incentives (e.g., discounts, loyalty points, bundled services) to convert customers from month-to-month to annual or bi-annual contracts including limited-time offers and promote benefits such as price stability and exclusive support.
 - Improve High-Churn Services by conducting surveys and focus groups to identify pain points in services like Unlimited Data and Phone Service. Collaborate with engineering and product teams to improve service quality and reliability and monitoring customer satisfaction scores post-improvements.
 - Encourage Digital Payments by offering cashback or rewards for customers who switch from mailed checks or bank withdrawals to credit cards or digital wallets and partnering with fintech solutions to streamline payment processes and reduce friction.
-- Target High-Churn RegionsAction by deploying localized marketing and customer success initiatives in states with high churn (e.g., Maharashtra, Tamil Nadu) and creating geo-targeted promotions, language-specific support, and regional partnerships to enhance customer engagement.
-
-Retain High-Value CustomersAction: Identify high-revenue customers using churn prediction scores and proactively enroll them in VIP loyalty programs. Assign dedicated account managers, provide early access to new features, and ensure personalized communication to reduce churn risk.
+- Target High-Churn Regions by deploying localized marketing and customer success initiatives in states with high churn (e.g., Maharashtra, Tamil Nadu) and creating geo-targeted promotions, language-specific support, and regional partnerships to enhance customer engagement.
+- Retain High-Value Customers by identifying high-revenue customers using churn prediction scores and proactively enroll them in VIP loyalty programs and assigning dedicated account managers, provide early access to new features, and ensure personalized communication to reduce churn risk.
 
 ## Conclusion
 
