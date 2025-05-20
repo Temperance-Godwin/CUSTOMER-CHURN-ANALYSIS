@@ -1,4 +1,5 @@
 # CUSTOMER-CHURN-ANALYSIS
+![churn](
 
 ## INTRODUCTION
 
