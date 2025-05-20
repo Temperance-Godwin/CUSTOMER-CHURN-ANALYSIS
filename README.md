@@ -43,12 +43,14 @@ High customer churn impacts revenue and increases acquisition costs. Without a c
 2. Churn Analysis.
 
 ![Churn Analysis](https://github.com/Temperance-Godwin/CUSTOMER-CHURN-ANALYSIS/blob/main/Churn%20Analysis.png)
-
+   
 - The overall churn Rate was 27%
 - Highest Churn Contracts is Month-to-month (47%)
 - The Older and middle-aged customers churn more
 - Churn by Payment: Mailed Check (38%) and Bank Withdrawal (34%)
 
+3. Churn Prediction Analysis.
+![Churn prediction]
 ## PREDICTIVE MODELLING (Python)
 
 This involved an end-to-end machine learning pipeline:
