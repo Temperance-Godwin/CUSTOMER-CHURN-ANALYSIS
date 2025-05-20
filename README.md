@@ -28,6 +28,18 @@ High customer churn impacts revenue and increases acquisition costs. Without a c
 6. Dashboarding: Power BI dashboards were created for business decision-makers.
 7. Insights & Recommendations: Actionable strategies were developed based on analytical findings.
 
+## EXPLORATORY DATA ANALYSIS (SQL)
+Using SQL, the following initial exploratory data analysis was performed:
+- Calculated the percentage of gender.
+- ⁠Calculated the percentage according to contracts.
+- ⁠Analyzed the percentages of customers that has churned, stayed or joined with their total revenue.
+- ⁠Checked for NULL values.
+- ⁠Moved the NULL values in a different table.
+- ⁠Created a virtual table for Power BI (customers that churned or stayed).
+- ⁠Created view for customers that joined.
+
+![View my analysis](https://github.com/Temperance-Godwin/CUSTOMER-CHURN-ANALYSIS/blob/main/Exploratory%20Data%20Analysis.sql)
+
 ## PREDICTIVE MODELLING (Python)
 
 This involved an end-to-end machine learning pipeline:
