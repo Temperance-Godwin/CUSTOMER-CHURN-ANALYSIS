@@ -10,20 +10,25 @@ High customer churn impacts revenue and increases acquisition costs. Without a c
 
 ## OBJECTIVES
 
-- Identify key factors driving customer churn.
-- Build an accurate predictive model for customer churn.
-- Develop targeted, actionable strategies to reduce churn.
-- Visualize insights through interactive dashboards for stakeholders.
+1. Identify key factors driving customer churn.
+2. Build an accurate predictive model for customer churn.
+3. Develop targeted, actionable strategies to reduce churn.
+4. Visualize insights through interactive dashboards for stakeholders.
+
+## SKILLS DEMONSTRATED
+1. Power BI(DAX function, Visualization)
+2. SQL(data cleaning, creating view)
+3. Python (Machine Learning)
 
 ## METHODOLOGY
 
-- Raw data was collected, cleaned and transformed using SQL
-- SQL and Power BI visualizations were used to identify patterns and trends.
-- Feature Engineering: Key features such as tenure, payment method, contract type, and service usage were derived.
-- Model Development: Predictive models were built using Python in a Jupyter Notebook environment.
-- Evaluation: Models were evaluated using accuracy, precision, recall, and F1-score.
-- Dashboarding: Power BI dashboards were created for business decision-makers.
-- Insights & Recommendations: Actionable strategies were developed based on analytical findings.
+1. Raw data was collected, cleaned and transformed using SQL
+2. SQL and Power BI visualizations were used to identify patterns and trends.
+3. Feature Engineering: Key features such as tenure, payment method, contract type, and service usage were derived.
+4. Model Development: Predictive models were built using Python in a Jupyter Notebook environment.
+5. Evaluation: Models were evaluated using accuracy, precision, recall, and F1-score.
+6. Dashboarding: Power BI dashboards were created for business decision-makers.
+7. Insights & Recommendations: Actionable strategies were developed based on analytical findings.
 
 ## INSIGHTS
 
@@ -59,19 +64,15 @@ Evaluation Metrics:
 - Recall: 79%
 - AUC Score: 0.91
 
-## Key Business Insights
+## KEY BUSINESS INSIGHTS
 
-Month-to-month contracts exhibit the highest churn.
+1. Month-to-month contracts exhibit the highest churn.
+2. Competitor-driven churn is significant, brand loyalty programs could help.
+3. Modern payment methods (credit card) show lower churn.
+4. Services like Unlimited Data and Phone Service need quality improvements.
+5. Geographic churn hotspots (e.g., Maharashtra, Tamil Nadu) indicate need for local campaigns.
 
-Competitor-driven churn is significant — brand loyalty programs could help.
-
-Modern payment methods (credit card) show lower churn.
-
-Services like Unlimited Data and Phone Service need quality improvements.
-
-Geographic churn hotspots (e.g., Maharashtra, Tamil Nadu) indicate need for local campaigns.
-
-## Recommendations & Action Plan
+## RECOMMENDATION
 
 - Promote Long-Term Contracts by launching targeted marketing campaigns and incentives (e.g., discounts, loyalty points, bundled services) to convert customers from month-to-month to annual or bi-annual contracts including limited-time offers and promote benefits such as price stability and exclusive support.
 - Improve High-Churn Services by conducting surveys and focus groups to identify pain points in services like Unlimited Data and Phone Service. Collaborate with engineering and product teams to improve service quality and reliability and monitoring customer satisfaction scores post-improvements.
@@ -79,13 +80,13 @@ Geographic churn hotspots (e.g., Maharashtra, Tamil Nadu) indicate need for loca
 - Target High-Churn Regions by deploying localized marketing and customer success initiatives in states with high churn (e.g., Maharashtra, Tamil Nadu) and creating geo-targeted promotions, language-specific support, and regional partnerships to enhance customer engagement.
 - Retain High-Value Customers by identifying high-revenue customers using churn prediction scores and proactively enroll them in VIP loyalty programs and assigning dedicated account managers, provide early access to new features, and ensure personalized communication to reduce churn risk.
 
-## Challenges Faced
+## CHALLENGES FACED😔 
 - Data Quality: Incomplete data on refunds and complaint logs limited service issue insights.
 - Feature Ambiguity: Referral impact did not correlate linearly with churn, making predictive modeling more complex.
 - Customer Behavior Volatility: Long-tenured customers churned without clear dissatisfaction markers.
 - Limited Granular Feedback: Lack of qualitative feedback (like surveys or NPS) limited root cause identification.
 
-## Conclusion
+## CONCLUSION
 
 This project effectively combined data engineering, business intelligence, and machine learning to provide a comprehensive view of customer churn. The insights and models developed here are directly actionable, offering measurable strategies to reduce churn and improve customer loyalty. It showcases end-to-end capability in data-driven business problem solving and is designed to be presentation-ready for stakeholders and potential employers.
 
