@@ -43,6 +43,8 @@ Evaluation Metrics:
 - Recall: 79%
 - AUC Score: 0.91
 
+[View my analysis](https://github.com/Temperance-Godwin/CUSTOMER-CHURN-ANALYSIS/blob/main/Churn%20Prediction.ipynb)
+
 ## DATA VISUALIZATIONS
 
 1. Customer & Revenue Overview
