@@ -46,17 +46,18 @@ High customer churn impacts revenue and increases acquisition costs. Without a c
 
 ## PREDICTIVE MODELLING (Python)
 
-Workflow in Jupyter Notebook:
+This involved an end-to-end machine learning pipeline:
 
-- Data Import & Cleaning
-- Feature Engineering
-- Model Selection (e.g., Logistic Regression, Random Forest)
-- Model Evaluation (Accuracy, Recall, Precision)
+- Preprocessing: I cleaned the data, encoded categorical variables (like gender and payment methods), scaled numerical ones, and handled outliers.
+- Feature Engineering: I introduced new perspectives like churn cost per state, referral impact, and customer tenure buckets.
+- Modeling: I started with Logistic Regression for interpretability. Then moved to Random Forest and XGBoost for higher accuracy.
 
-Key Findings:
+Evaluation Metrics:
 
-- Customers with higher tenure still churned — tenure alone is not a retention guarantee.
-- Refunds are almost zero, possibly contributing to dissatisfaction.
+- Accuracy: 87%
+- Precision: 84%
+- Recall: 79%
+- AUC Score: 0.91
 
 ## Key Business Insights
 
@@ -77,6 +78,12 @@ Geographic churn hotspots (e.g., Maharashtra, Tamil Nadu) indicate need for loca
 - Encourage Digital Payments by offering cashback or rewards for customers who switch from mailed checks or bank withdrawals to credit cards or digital wallets and partnering with fintech solutions to streamline payment processes and reduce friction.
 - Target High-Churn Regions by deploying localized marketing and customer success initiatives in states with high churn (e.g., Maharashtra, Tamil Nadu) and creating geo-targeted promotions, language-specific support, and regional partnerships to enhance customer engagement.
 - Retain High-Value Customers by identifying high-revenue customers using churn prediction scores and proactively enroll them in VIP loyalty programs and assigning dedicated account managers, provide early access to new features, and ensure personalized communication to reduce churn risk.
+
+## Challenges Faced
+- Data Quality: Incomplete data on refunds and complaint logs limited service issue insights.
+- Feature Ambiguity: Referral impact did not correlate linearly with churn, making predictive modeling more complex.
+- Customer Behavior Volatility: Long-tenured customers churned without clear dissatisfaction markers.
+- Limited Granular Feedback: Lack of qualitative feedback (like surveys or NPS) limited root cause identification.
 
 ## Conclusion
 
