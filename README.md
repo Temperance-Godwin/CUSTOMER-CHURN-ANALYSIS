@@ -28,7 +28,7 @@ High customer churn impacts revenue and increases acquisition costs. Without a c
 6. Dashboarding: Power BI dashboards were created for business decision-makers.
 7. Insights & Recommendations: Actionable strategies were developed based on analytical findings.
 
-## INSIGHTS
+## DASHBOARDS
 
 1. Customer & Revenue Overview
 
@@ -49,6 +49,9 @@ High customer churn impacts revenue and increases acquisition costs. Without a c
 
 3. Churn Prediction Analysis.
 ![Churn prediction](https://github.com/Temperance-Godwin/CUSTOMER-CHURN-ANALYSIS/blob/main/Churn%20Prediction.png)
+
+## RECOMMENDATIONS AND INSIGHTS
+![Recommendations](https://github.com/Temperance-Godwin/CUSTOMER-CHURN-ANALYSIS/blob/main/Recommendations.png)
 
 ## PREDICTIVE MODELLING (Python)
 
