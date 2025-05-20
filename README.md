@@ -75,6 +75,8 @@ Evaluation Metrics:
 
 ![Recommendations](https://github.com/Temperance-Godwin/CUSTOMER-CHURN-ANALYSIS/blob/main/Recommendations.png)
 
+To view the full report, [click here](https://app.powerbi.com/view?r=eyJrIjoiMzUyMzRkYzMtZWU3Yi00MjEyLWFiMDAtMmQ0MjA2NDJmNzYxIiwidCI6Ijg0ZGZiOGY5LWYzMTItNDk1NC05ZTk5LWYzZjcxMTgzZDZmMSJ9)
+
 ## CHALLENGES FACED😔 
 - Data Quality: Incomplete data on refunds and complaint logs limited service issue insights.
 - Feature Ambiguity: Referral impact did not correlate linearly with churn, making predictive modeling more complex.
