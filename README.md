@@ -38,7 +38,7 @@ Using SQL, the following initial exploratory data analysis was performed:
 - ⁠Created a virtual table for Power BI (customers that churned or stayed).
 - ⁠Created view for customers that joined.
 
-![View my analysis](https://github.com/Temperance-Godwin/CUSTOMER-CHURN-ANALYSIS/blob/main/Exploratory%20Data%20Analysis.sql)
+[View my analysis](https://github.com/Temperance-Godwin/CUSTOMER-CHURN-ANALYSIS/blob/main/Exploratory%20Data%20Analysis.sql)
 
 ## PREDICTIVE MODELLING (Python)
 
