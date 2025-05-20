@@ -1,5 +1,5 @@
 # CUSTOMER-CHURN-ANALYSIS
-![churn](
+![churn](https://github.com/Temperance-Godwin/CUSTOMER-CHURN-ANALYSIS/blob/main/Churn.jpg)
 
 ## INTRODUCTION
 
