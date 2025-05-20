@@ -1,5 +1,3 @@
-# CUSTOMER-CHURN-ANALYSIS
-
 ## INTRODUCTION
 
 Customer churn is a significant concern for subscription-based businesses. This project aims to analyze customer behavior to understand churn patterns and to build a predictive model that forecasts customer churn. The goal is to equip the business with actionable insights to reduce churn and enhance customer retention.
@@ -50,7 +48,8 @@ High customer churn impacts revenue and increases acquisition costs. Without a c
 - Churn by Payment: Mailed Check (38%) and Bank Withdrawal (34%)
 
 3. Churn Prediction Analysis.
-![Churn prediction]
+![Churn prediction](https://github.com/Temperance-Godwin/CUSTOMER-CHURN-ANALYSIS/blob/main/Churn%20Prediction.png)
+
 ## PREDICTIVE MODELLING (Python)
 
 This involved an end-to-end machine learning pipeline:
