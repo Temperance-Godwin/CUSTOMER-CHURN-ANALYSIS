@@ -28,7 +28,7 @@ High customer churn impacts revenue and increases acquisition costs. Without a c
 6. Dashboarding: Power BI dashboards were created for business decision-makers.
 7. Insights & Recommendations: Actionable strategies were developed based on analytical findings.
 
-## DASHBOARDS
+## DATA VISUALIZATIONS
 
 1. Customer & Revenue Overview
 
