@@ -28,31 +28,6 @@ High customer churn impacts revenue and increases acquisition costs. Without a c
 6. Dashboarding: Power BI dashboards were created for business decision-makers.
 7. Insights & Recommendations: Actionable strategies were developed based on analytical findings.
 
-## DATA VISUALIZATIONS
-
-1. Customer & Revenue Overview
-
-![Customer & Revenue Insights](https://github.com/Temperance-Godwin/CUSTOMER-CHURN-ANALYSIS/blob/main/Customer%20%26%20Revenue%20Insights.png)
-
-- Month-to-month generates the highest revenue ($8.2M)
-
-- Stayed customers generated $6.8M revenue while Churned customer has $1.2M loss.
-
-2. Churn Analysis.
-
-![Churn Analysis](https://github.com/Temperance-Godwin/CUSTOMER-CHURN-ANALYSIS/blob/main/Churn%20Analysis.png)
-   
-- The overall churn Rate was 27%
-- Highest Churn Contracts is Month-to-month (47%)
-- The Older and middle-aged customers churn more
-- Churn by Payment: Mailed Check (38%) and Bank Withdrawal (34%)
-
-3. Churn Prediction Analysis.
-![Churn prediction](https://github.com/Temperance-Godwin/CUSTOMER-CHURN-ANALYSIS/blob/main/Churn%20Prediction.png)
-
-## RECOMMENDATIONS AND INSIGHTS
-![Recommendations](https://github.com/Temperance-Godwin/CUSTOMER-CHURN-ANALYSIS/blob/main/Recommendations.png)
-
 ## PREDICTIVE MODELLING (Python)
 
 This involved an end-to-end machine learning pipeline:
@@ -68,21 +43,23 @@ Evaluation Metrics:
 - Recall: 79%
 - AUC Score: 0.91
 
-## KEY BUSINESS INSIGHTS
+## DATA VISUALIZATIONS
 
-1. Month-to-month contracts exhibit the highest churn.
-2. Competitor-driven churn is significant, brand loyalty programs could help.
-3. Modern payment methods (credit card) show lower churn.
-4. Services like Unlimited Data and Phone Service need quality improvements.
-5. Geographic churn hotspots (e.g., Maharashtra, Tamil Nadu) indicate need for local campaigns.
+1. Customer & Revenue Overview
 
-## RECOMMENDATION
+![Customer & Revenue Insights](https://github.com/Temperance-Godwin/CUSTOMER-CHURN-ANALYSIS/blob/main/Customer%20%26%20Revenue%20Insights.png)
 
-- Promote Long-Term Contracts by launching targeted marketing campaigns and incentives (e.g., discounts, loyalty points, bundled services) to convert customers from month-to-month to annual or bi-annual contracts including limited-time offers and promote benefits such as price stability and exclusive support.
-- Improve High-Churn Services by conducting surveys and focus groups to identify pain points in services like Unlimited Data and Phone Service. Collaborate with engineering and product teams to improve service quality and reliability and monitoring customer satisfaction scores post-improvements.
-- Encourage Digital Payments by offering cashback or rewards for customers who switch from mailed checks or bank withdrawals to credit cards or digital wallets and partnering with fintech solutions to streamline payment processes and reduce friction.
-- Target High-Churn Regions by deploying localized marketing and customer success initiatives in states with high churn (e.g., Maharashtra, Tamil Nadu) and creating geo-targeted promotions, language-specific support, and regional partnerships to enhance customer engagement.
-- Retain High-Value Customers by identifying high-revenue customers using churn prediction scores and proactively enroll them in VIP loyalty programs and assigning dedicated account managers, provide early access to new features, and ensure personalized communication to reduce churn risk.
+2. Churn Analysis.
+
+![Churn Analysis](https://github.com/Temperance-Godwin/CUSTOMER-CHURN-ANALYSIS/blob/main/Churn%20Analysis.png)
+
+3. Churn Prediction Analysis.
+
+![Churn prediction](https://github.com/Temperance-Godwin/CUSTOMER-CHURN-ANALYSIS/blob/main/Churn%20Prediction.png)
+
+## RECOMMENDATIONS AND INSIGHTS
+
+![Recommendations](https://github.com/Temperance-Godwin/CUSTOMER-CHURN-ANALYSIS/blob/main/Recommendations.png)
 
 ## CHALLENGES FACED😔 
 - Data Quality: Incomplete data on refunds and complaint logs limited service issue insights.
